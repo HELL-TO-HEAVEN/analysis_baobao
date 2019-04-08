@@ -175,3 +175,16 @@ plt.yticks(index, df_n.word, fontsize=11, fontproperties=my_font)  # 这里设�
 for y, x in zip(index, df_n.sales_sum):
     plt.text(x, y, '%.0f' % x, ha='left', va='center', fontsize=11)
 plt.show()
+
+"""
+画饼状图
+"""
+# plt.rcParams['font.sans-serif'] = ['SimHei']   #用来正常显示中文标签
+plt.figure()
+labels = df_n.word
+size = df_n.sales_sum
+patches, l_text, p_text = plt.pie(size, labels=labels, autopct='%1.1f%%')
+for each in l_text:
+    each.set_fontproperties(my_font)
+plt.title('Pie')
+plt.show()
