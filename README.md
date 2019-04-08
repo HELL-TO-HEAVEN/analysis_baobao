@@ -9,9 +9,10 @@
 ![pic1](https://github.com/HELL-TO-HEAVEN/analysis_baobao/blob/master/%E5%8C%85%E5%8C%85.png)   <br>
 ***************************************************************************
 ### 条形图：
-![pic2](https://github.com/HELL-TO-HEAVEN/analysis_baobao/blob/master/%E5%8C%85%E5%8C%85%E5%85%B3%E9%94%AE%E8%AF%8D%E9%94%80%E9%87%8F.png)
+![pic2](https://github.com/HELL-TO-HEAVEN/analysis_baobao/blob/master/%E5%8C%85%E5%8C%85%E5%85%B3%E9%94%AE%E8%AF%8D%E9%94%80%E9%87%8F.png)     <br>
 *****************************************************************************
 
 ### 饼状图： 
-<br>
+
 ![pic3](https://github.com/HELL-TO-HEAVEN/analysis_baobao/blob/master/%E9%A5%BC%E5%9B%BE%60.png)
+
